@@ -1,4 +1,6 @@
 I have learn in chapte7 This Thing:
+
+
 1.For Loop :
 for loop is a block of cord that fixd a number, that is used that a number iterations is know.
 Example in Python:
